@@ -31,6 +31,13 @@ To design and simulate a seven-segment display driver using Verilog HDL, and ver
 - Capture screenshots of the waveform and save the simulation logs. These will be included in the lab report.  
 
 ---
+## Logic Diagram
+
+![image](https://github.com/user-attachments/assets/e561cdb5-b1b0-42d0-94f5-e1efaec9704c)
+
+![image](https://github.com/user-attachments/assets/dc32254e-f88d-471a-a2ba-e4ec5eb3fc11)
+
+![image](https://github.com/user-attachments/assets/a8a8921e-0a37-4697-86d8-0c43cd8aef5a)
 
 ## Verilog Code for Seven-Segment Display  
 
