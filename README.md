@@ -66,6 +66,11 @@ end
 
 endmodule
 ```
+## Simulated Output
+
+_____ Keep Simulated output ___________
+
+
 ## Testbench for Seven-Segment Display
 ```verilog
 
